@@ -1,0 +1,29 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  globals.cpp
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(107,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(108,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(109,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(110,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+  hacks.cpp
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(107,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(108,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(109,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(110,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\hacks\hacks.cpp(147,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(107,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(108,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(109,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\globals.h(110,33): warning C4244: 'argument': conversion from 'float' to 'const uintptr_t', possible loss of data
+E:\7-12 2022\EXTERENAL NEW\src\main.cpp(19,9): warning C4616: #pragma warning: warning number '2660' not a valid compiler warning
+E:\7-12 2022\EXTERENAL NEW\src\main.cpp(21,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\sdkddkver.h(223,1): message : see previous definition of '_WIN32_WINNT'
+  memory.cpp
+LINK : fatal error C1047: The object or library file 'ext\keyauth\library_x64.lib' was created by a different version of the compiler than other objects like 'x64\Release\imgui.obj'; rebuild all objects and libraries with the same compiler
+LINK : fatal error LNK1257: code generation failed

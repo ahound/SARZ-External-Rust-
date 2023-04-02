@@ -1,0 +1,416 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  globals.cpp
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(107,47): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(231): message : see reference to class template instantiation 'jm::xor_string<CharT,Size,std::integer_sequence<size_t,_Ix...>,std::integer_sequence<size_t,Indices...>>' being compiled
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(160,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(162,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(215,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(217,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2146: syntax error: missing ')' before identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,16): error C2365: 'L': redefinition; previous definition was 'template parameter'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234): message : see declaration of 'L'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2061: syntax error: identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(238,41): error C2059: syntax error: ')'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,62): error C3861: 'l': identifier not found
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,63): message : 'l': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(240,1): error C2143: syntax error: missing ';' before '}'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(28,3): error C2143: syntax error: missing ';' before 'identifier'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(28,3): warning C4091: 'typedef ': ignored on left of '_EXCEPTION_DISPOSITION' when no variable is declared
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(52,40): error C2988: unrecognizable template declaration/definition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(52,40): error C2143: syntax error: missing ';' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(52,15): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(52,15): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(54,16): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(54,16): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(56,15): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(56,15): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(161,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(161,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(162,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(162,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(163,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(163,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(164,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(164,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(165,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(165,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(168,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(168,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(169,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(169,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(171,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(171,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(172,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(172,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\ctype.h(225,16): error C3861: '_chvalidator_l': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\ctype.h(257,20): error C3861: '_isctype_l': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(156,18): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(156,18): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(181,29): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(181,40): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(190,20): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(190,30): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(199,22): error C2065: 'UINT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(199,32): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(209,22): error C2065: 'INT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(209,31): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(219,29): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(219,40): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(228,28): error C2065: 'UINT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(228,38): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(237,46): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(237,57): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(246,20): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(246,30): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(255,19): error C2065: 'INT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(255,28): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(264,28): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(264,38): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(274,22): error C2065: 'INT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(274,30): error C2146: syntax error: missing ')' before identifier 'i'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(284,22): error C2065: 'UINT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(284,31): error C2146: syntax error: missing ')' before identifier 'ui'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(294,22): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(294,31): error C2146: syntax error: missing ')' before identifier 'l'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(304,22): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(304,32): error C2146: syntax error: missing ')' before identifier 'ul'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,22): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,34): error C2144: syntax error: 'unsigned long' should be preceded by ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,34): error C2062: type 'unsigned long' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,50): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,22): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,33): error C2144: syntax error: 'long' should be preceded by ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,33): error C2062: type 'long' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,40): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(336,49): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(336,60): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(434,19): error C2146: syntax error: missing ';' before identifier 'SIZE_T'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(435,18): error C2146: syntax error: missing ';' before identifier 'SSIZE_T'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(483,19): error C2146: syntax error: missing ';' before identifier 'DWORD_PTR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(505,19): error C2146: syntax error: missing ';' before identifier 'KAFFINITY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(506,19): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(506,19): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(486,15): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(486,15): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(487,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(487,21): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(487,21): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(489,33): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(489,33): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(490,33): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(490,33): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(491,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(491,39): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(491,39): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(492,33): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(492,33): error C2143: syntax error: missing ';' before '__unaligned'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(492,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(493,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(493,39): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(493,39): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(494,34): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(494,34): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(495,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(495,40): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(495,40): fatal error C1003: error count exceeds 100; stopping compilation
+  hacks.cpp
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(107,47): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(231): message : see reference to class template instantiation 'jm::xor_string<CharT,Size,std::integer_sequence<size_t,_Ix...>,std::integer_sequence<size_t,Indices...>>' being compiled
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(160,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(162,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(215,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(217,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2146: syntax error: missing ')' before identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,16): error C2365: 'L': redefinition; previous definition was 'template parameter'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234): message : see declaration of 'L'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2061: syntax error: identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(238,41): error C2059: syntax error: ')'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,62): error C3861: 'l': identifier not found
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,63): message : 'l': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(240,1): error C2143: syntax error: missing ';' before '}'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(28,3): error C2143: syntax error: missing ';' before 'identifier'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(28,3): warning C4091: 'typedef ': ignored on left of '_EXCEPTION_DISPOSITION' when no variable is declared
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(52,40): error C2988: unrecognizable template declaration/definition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\excpt.h(52,40): error C2143: syntax error: missing ';' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(52,15): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(52,15): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(54,16): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(54,16): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(56,15): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(56,15): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(161,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(161,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(162,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(162,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(163,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(163,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(164,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(164,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(165,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(165,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(168,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(168,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(169,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(169,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(171,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(171,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(172,29): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(172,29): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\ctype.h(225,16): error C3861: '_chvalidator_l': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\ctype.h(257,20): error C3861: '_isctype_l': identifier not found
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(156,18): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(156,18): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(181,29): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(181,40): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(190,20): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(190,30): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(199,22): error C2065: 'UINT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(199,32): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(209,22): error C2065: 'INT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(209,31): error C2146: syntax error: missing ')' before identifier 'h'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(219,29): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(219,40): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(228,28): error C2065: 'UINT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(228,38): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(237,46): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(237,57): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(246,20): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(246,30): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(255,19): error C2065: 'INT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(255,28): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(264,28): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(264,38): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(274,22): error C2065: 'INT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(274,30): error C2146: syntax error: missing ')' before identifier 'i'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(284,22): error C2065: 'UINT_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(284,31): error C2146: syntax error: missing ')' before identifier 'ui'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(294,22): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(294,31): error C2146: syntax error: missing ')' before identifier 'l'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(304,22): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(304,32): error C2146: syntax error: missing ')' before identifier 'ul'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,22): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,34): error C2144: syntax error: 'unsigned long' should be preceded by ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,34): error C2062: type 'unsigned long' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(318,50): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,22): error C2065: 'LONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,33): error C2144: syntax error: 'long' should be preceded by ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,33): error C2062: type 'long' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(327,40): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(336,49): error C2065: 'ULONG_PTR': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(336,60): error C2146: syntax error: missing ')' before identifier 'p'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(434,19): error C2146: syntax error: missing ';' before identifier 'SIZE_T'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(435,18): error C2146: syntax error: missing ';' before identifier 'SSIZE_T'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(483,19): error C2146: syntax error: missing ';' before identifier 'DWORD_PTR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(505,19): error C2146: syntax error: missing ';' before identifier 'KAFFINITY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(506,19): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\basetsd.h(506,19): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(486,15): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(486,15): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(487,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(487,21): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(487,21): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(489,33): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(489,33): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(490,33): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(490,33): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(491,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(491,39): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(491,39): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(492,33): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(492,33): error C2143: syntax error: missing ';' before '__unaligned'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(492,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(493,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(493,39): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(493,39): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(494,34): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(494,34): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(495,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(495,40): error C2988: unrecognizable template declaration/definition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(495,40): fatal error C1003: error count exceeds 100; stopping compilation
+  main.cpp
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(107,47): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(231): message : see reference to class template instantiation 'jm::xor_string<CharT,Size,std::integer_sequence<size_t,_Ix...>,std::integer_sequence<size_t,Indices...>>' being compiled
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(160,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(162,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(215,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(217,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2146: syntax error: missing ')' before identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,16): error C2365: 'L': redefinition; previous definition was 'template parameter'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234): message : see declaration of 'L'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2061: syntax error: identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(238,41): error C2059: syntax error: ')'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,62): error C3861: 'l': identifier not found
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,63): message : 'l': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(240,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(10,13): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(11,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(14,24): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(15,24): error C7525: inline variables require at least '/std:c++17'
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,54): error C3083: 'numbers': the symbol to the left of a '::' must be a type
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,63): error C2039: 'pi_v': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : see declaration of 'std'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,1): error C2065: 'pi_v': undeclared identifier
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,68): error C2062: type 'float' unexpected
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(45,38): error C3083: 'numbers': the symbol to the left of a '::' must be a type
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(45,47): error C2039: 'pi_v': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : see declaration of 'std'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(41,27): error C3615: constexpr function 'Vector3::ToAngle' cannot result in a constant expression
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(46): message : failure was caused by control reaching the end of a constexpr function
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(47,2): error C2059: syntax error: '}'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(47,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(50,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(50,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(73,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(75,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(76,18): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(125,48): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(130,48): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(136,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(138,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(140,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(142,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(144,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(146,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(148,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(150,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(152,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(153,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(155,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(157,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(159,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(161,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(162,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(164,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(165,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(167,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(168,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(170,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(171,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(173,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(174,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(11,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(12,20): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(14,16): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(16,20): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(17,27): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(18,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\main.cpp(15,9): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\main.cpp(17,13): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : see declaration of 'MessageBoxW'
+  ui.cpp
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(11,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(12,20): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(14,16): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(16,20): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(17,27): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.h(18,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(107,47): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(231): message : see reference to class template instantiation 'jm::xor_string<CharT,Size,std::integer_sequence<size_t,_Ix...>,std::integer_sequence<size_t,Indices...>>' being compiled
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(160,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(162,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(215,93): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(217,13): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2146: syntax error: missing ')' before identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,16): error C2365: 'L': redefinition; previous definition was 'template parameter'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234): message : see declaration of 'L'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(234,18): error C2061: syntax error: identifier 'l'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(238,41): error C2059: syntax error: ')'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,62): error C3861: 'l': identifier not found
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(235,63): message : 'l': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(240,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(10,13): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(11,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(14,24): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(15,24): error C7525: inline variables require at least '/std:c++17'
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,54): error C3083: 'numbers': the symbol to the left of a '::' must be a type
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,63): error C2039: 'pi_v': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\cmath(711): message : see declaration of 'std'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,1): error C2065: 'pi_v': undeclared identifier
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(44,68): error C2062: type 'float' unexpected
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(45,38): error C3083: 'numbers': the symbol to the left of a '::' must be a type
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(45,47): error C2039: 'pi_v': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\cmath(711): message : see declaration of 'std'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(41,27): error C3615: constexpr function 'Vector3::ToAngle' cannot result in a constant expression
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(46): message : failure was caused by control reaching the end of a constexpr function
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(47,2): error C2059: syntax error: '}'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(47,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(50,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\vector.h(50,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(73,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(75,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(76,18): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(125,48): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(130,48): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(136,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(138,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(140,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(142,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(144,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(146,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(148,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(150,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(152,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(153,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(155,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(157,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(159,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(161,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(162,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(164,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(165,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(167,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(168,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(170,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(171,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(173,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\globals.h(174,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(19,43): error C2440: '=': cannot convert from 'long (__cdecl *)(const HWND,const UINT,const WPARAM,const LPARAM)' to 'WNDPROC'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(19,29): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(27,46): error C2440: '=': cannot convert from 'const char [14]' to 'LPCWSTR'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(27,31): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(34,11): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 3 from 'const char *' to 'LPCWSTR'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(37,3): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(4433,1): message : see declaration of 'CreateWindowExW'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(224,45): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(224,33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(259,16): error C2955: 'jm::xor_string': use of class template requires template argument list
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(102): message : see declaration of 'jm::xor_string'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(260,16): error C2955: 'jm::xor_string': use of class template requires template argument list
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(102): message : see declaration of 'jm::xor_string'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(261,16): error C2955: 'jm::xor_string': use of class template requires template argument list
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\xorstr.hpp(102): message : see declaration of 'jm::xor_string'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\ui.cpp(408,22): warning C4244: 'return': conversion from 'LRESULT' to 'long', possible loss of data
+  memory.cpp
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(10,13): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(11,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(14,24): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.h(15,24): error C7525: inline variables require at least '/std:c++17'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.cpp(13,6): error C2664: 'int std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare(const _Elem *const ) noexcept const': cannot convert argument 1 from 'WCHAR [260]' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.cpp(13,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4443,33): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare'
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.cpp(34,6): error C2664: 'int std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare(const _Elem *const ) noexcept const': cannot convert argument 1 from 'WCHAR [256]' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Kostya\Desktop\C++ May\EXTERENAL NEW\src\utils\memory.cpp(34,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4443,33): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare'
+  Generating Code...
